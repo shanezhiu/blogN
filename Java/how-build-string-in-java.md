@@ -6,6 +6,8 @@
 
 + `String.concat()`
 
++ `String.join()`
+
 + `StringBuilder`
 
 + `StringBuffer`
@@ -38,6 +40,29 @@ class Helloworld {
 
 + 简单字符串链接
 
+
+### String.join
+
+```
+class Helloworld {
+    public static void main(String[] args) {
+     // 现在有两个字符串, Hello与World!, 需要通过程序得到
+     // Hello World!
+     String str1 = "Hello ";
+     String str2 = "World!";
+     System.out.println(String.join(" ", str1, str2));
+    }
+ }
+```
+**结果：** `Hello World!`
+
+> 优点:
+
++ 操作简单,方便
+
+> 缺点:
+
++ 它依赖于`StringJoiner`， 而`StringJoiner`依赖于`StringBuilder`
 
 ### String.concat
 

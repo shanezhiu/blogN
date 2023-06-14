@@ -1,5 +1,7 @@
 ## Is 20M of rows still a valid soft limit of MySQL table in 2023?
 
+[YISHENG GONG](https://yishenggong.com/2023/05/22/is-20m-of-rows-still-a-valid-soft-limit-of-mysql-table-in-2023/)
+
 ### Rumor
 
 There’s rumor around the internet that we should avoid having > 20M rows in a single MySQL table. Otherwise, the table’s performance will be downgraded, you will find SQL query much slower than usual when it’s above the soft limit. These judgements were made on HDD many years ago. I’m wondering if it’s still true for MySQL on SSD in 2023, and if true, why is that?

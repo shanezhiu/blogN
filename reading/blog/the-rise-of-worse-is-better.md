@@ -1,6 +1,6 @@
 ## The Rise of Worse is Better
 
-["Author Richard Gabriel"](https://www.jwz.org/doc/worse-is-better.html "The Rise of ``Worse is Better''")
+[Author Richard Gabriel](https://www.jwz.org/doc/worse-is-better.html "The Rise of ``Worse is Better''")
 
 
 I and just about every designer of Common Lisp and CLOS has had extreme exposure to the MIT/Stanford style of design. The essence of this style can be captured by the phrase ``the right thing.'' To such a designer it is important to get all of the following characteristics right:

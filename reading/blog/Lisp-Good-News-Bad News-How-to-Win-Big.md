@@ -1,10 +1,11 @@
-  Worse Is Better 
+# Lisp: Good News, Bad News, How to Win Big
+[Richard P. Gabriel](https://dreamsongs.com/WIB.html "https://dreamsongs.com/WIB.html")
+
 
 [![](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/Files/DreamsongsBannerWeb.jpg)](chrome-extension://pcmpcfapbekmbjjkdalcgopdkipoggdi/index.html)
 
 ## Lisp: Good News, Bad News, How to Win Big
 
-## Richard P. Gabriel
 
 ### Lucid, Inc
 
